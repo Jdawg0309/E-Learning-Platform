@@ -26,3 +26,13 @@ A full-stack Flask + MySQL-based platform for managing users, courses, and assig
 
 ## 📁 Project Structure
 
+elearning_app/
+├── backend/
+│   ├── app.py
+│   ├── .env
+│   ├── requirements.txt
+│   ├── test_endpoints.py
+├── frontend/
+│   ├── templates/
+│   └── static/
+└── README.md
